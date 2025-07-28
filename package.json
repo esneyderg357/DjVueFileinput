@@ -1,14 +1,23 @@
 {
   "name": "djvuefileinput",
   "version": "1.0.0",
-  "author": "Tu Nombre",
-  "license": "MIT",
-  "description": "",
+  "description": "The best and simplest File Input component for Vue 3, UI independent and no dependency",
+  "keywords": ["vue","vue3","form","ui","input","file","fileinput","component"],
+  "author": {
+    "name": "David Esneyder Jerez Garnica",
+    "email": "esneyderg357@gmail.com"
+  },
+  "license": "GPL v3",
   "main": "index.js",
   "module": "index.js",
   "type": "module",
   "files": ["src", "index.js"],
   "peerDependencies": {
     "vue": "^3.0.0"
-  }
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/esneyderg357/DjVueFileinput.git"
+  },
+  "homepage": "https://esneyderg357.github.io/DjVueFileinput-docs"
 }
